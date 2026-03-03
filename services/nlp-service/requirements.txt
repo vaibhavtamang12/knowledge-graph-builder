@@ -1,0 +1,5 @@
+kafka-python
+spacy
+pydantic
+scikit-learn
+numpy
