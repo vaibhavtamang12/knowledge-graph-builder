@@ -60,6 +60,7 @@ services:
       - kafka
     environment:
       KAFKA_BOOTSTRAP_SERVERS: kafka:9092
+      GEMINI_API_KEY: AIzaSyCctXHFT0Fjsv-DoTVKMMNWdnYz9jgT1Jk
     networks:
       - graph-network
 
