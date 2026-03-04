@@ -31,6 +31,7 @@ services:
       - "7687:7687"
     environment:
       NEO4J_AUTH: neo4j/password
+      NEO4JLABS_PLUGINS: graph-data-science
     networks:
       - graph-network
 
