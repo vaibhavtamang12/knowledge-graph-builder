@@ -1,0 +1,15 @@
+Artificial intelligence (AI) is intelligence demonstrated by machines.
+Machine learning is a subset of AI that enables systems to learn from data.
+Deep learning is a subset of machine learning that uses neural networks with many layers.
+Neural networks are inspired by the human brain and consist of interconnected nodes.
+Natural language processing (NLP) is a field of AI focused on the interaction between computers and human language.
+Large language models (LLMs) are a type of neural network trained on massive text datasets.
+Transformers are the architecture behind most modern LLMs, introduced by Google researchers.
+Reinforcement learning is a type of machine learning where an agent learns by interacting with an environment.
+Computer vision is a field of AI that enables machines to interpret visual information from images and videos.
+Knowledge graphs represent information as a network of entities and their relationships.
+Ontologies define the concepts and relationships within a knowledge domain.
+Embeddings are dense vector representations of words, sentences, or entities in a high-dimensional space.
+Gradient descent is an optimization algorithm used to train machine learning models.
+Backpropagation is the algorithm used to compute gradients in neural networks.
+Transfer learning involves applying knowledge gained from one task to a different but related task.

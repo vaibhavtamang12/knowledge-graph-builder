@@ -1,0 +1,9 @@
+# requirements.txt
+ollama
+pandas
+networkx
+pyvis
+python-dotenv
+tiktoken
+numpy
+tqdm
